@@ -1,0 +1,5 @@
+{
+  "name": "OKR Studio v0.11.0 (Firestore에 사진 저장)",
+  "description": "An internal web platform for teams to create, manage, and track Objectives and Key Results (OKRs). Now connected to Google Cloud Firestore (okr-db) via REST API without Firebase SDK.",
+  "requestFramePermissions": []
+}
